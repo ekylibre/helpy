@@ -123,6 +123,7 @@ gem 'griddler-mailgun'
 gem 'griddler-postmark'
 gem 'griddler-mailin'
 gem 'griddler-sparkpost'
+gem 'griddler-ses'
 
 gem 'rails-timeago'
 
